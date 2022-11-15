@@ -1,4 +1,4 @@
-# Repertório 2022 | Pra Gerar
+# Repertório | Pra Gerar
  
 #### Legenda Tom
 * `T` = Tom ou Campo hamônico
